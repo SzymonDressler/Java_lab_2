@@ -44,11 +44,11 @@ public class Main {
         String a []= new String[6];
         methoda3(a);
         methoda4(a);
-        methoda5("Ivan");
-        methoda5("Ivan","Engels");
-        methoda5("Ivan","Engels",26);
-        int zmiennaA=(methoda6(6,7));
-        int zmiennaB=(methoda6(1,2,3));
+        methoda5("Szymon");
+        methoda5("Szymon","Dressler");
+        methoda5("Szymon","Dressler",29);
+        int zmiennaA=(methoda6(9,5));
+        int zmiennaB=(methoda6(5,7,9));
         System.out.println("wynik: "+(methoda6(6,7))+" wynik: "+methoda6(1,2,3));
 
     }
